@@ -1,0 +1,12 @@
+-------------------------
+BinaryFormatException
+-------------------------
+extends Exception
+-------------------------
++ BinaryFormatException(message: String)
+-------------------------
+
+UtilityClass (or inside your driver)
+-------------------------
++ bin2Dec(binaryString: String): int
+-------------------------
